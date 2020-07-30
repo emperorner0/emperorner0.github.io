@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Data Scraper Post-Mortem"
-date:       2020-07-30 22:35:33 +0000
+title:      "Data Scraper Post-Mortem - WIP"
+date:       2020-07-30 18:35:34 -0400
 permalink:  data_scraper_post-mortem
 ---
 
