@@ -12,11 +12,10 @@ github_username:  emperorner0
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-modernist
 highlighter: rouge
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
-
-theme: jekyll-theme-modernist
