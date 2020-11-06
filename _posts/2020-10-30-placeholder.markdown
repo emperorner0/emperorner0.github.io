@@ -6,7 +6,7 @@ permalink:  placeholder
 ---
 
 
-Data Science offer several very competent and useful frameworks for building, maintaining, and deploying Neural Networks. Of these many frameworks two have set themselves apart from the rest of the chaff by being flexible and easily put into a production environment. These are **PyTorch** and **Tensorflow**. **PyTorch** being developed and maintained by Facebook and **Tensorflow** being developed and maintained by Google. These are the two most popular and widely used frameworks. 
+Data Science offers several very competent and useful frameworks for building, maintaining, and deploying Neural Networks. Of these many frameworks two have set themselves apart from the rest of the chaff by being flexible and easy to put into a production environment. These are **PyTorch** and **Tensorflow**. **PyTorch** being developed and maintained by Facebook and **Tensorflow** being developed and maintained by Google. These are the two most popular and widely used frameworks for developing **Artificial Neural Networks**.
 
 ### What is a Neural Network? 
 
