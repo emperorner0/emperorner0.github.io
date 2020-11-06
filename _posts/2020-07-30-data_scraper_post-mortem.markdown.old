@@ -5,7 +5,6 @@ date:       2020-07-30 18:35:34 -0400
 permalink:  data_scraper_post-mortem
 ---
 
-# Data Scraper Post-Mortem or How I Learned To Be Humble and just Code
 
 Looking back at the beginning of my journey when I first decided that I wanted to reach out and plumb the depths of data science, I didn't think it would start by being defeated by simple HTML and Table tags. It happened though! My first, and blatantly easy, task that I had assigned myself was building a webscraper that would scrape movie information, so that I could practice my *exploratory data analysis* skills on. Unfortunately, my eyes were bigger than my stomach (to borrow an old idiom), and my technical abilities at the time were not up to snuff to build this. Here I am though, and I want to break down this little scraper so that I can learn a thing or two in the process.
 
