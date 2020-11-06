@@ -2,7 +2,7 @@
 layout: post
 title:      "Neural Networks - PyToch and TensorFlow"
 date:       2020-10-30 14:12:49 -0400
-permalink:  placeholder
+permalink:  neural_networks
 ---
 
 
