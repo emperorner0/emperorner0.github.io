@@ -22,8 +22,8 @@ The first model below is a **PyTorch** model.
 **PyTorch**, as previously stated, is a neural network framework developed and maintained by Facebook. The current trend shows that **PyTorch** and **Tensorflow** share similar interest within websearches, with **PyTorch** pulling slightly ahead. As seen in this image provided by Google Trends: 
 
 <p align="center">
-  <img src="Images/pyttf.png" />
-  <img src="Images/pyttf_chart.png" />
+  <img src="https://i.imgur.com/loJWgsJ.png" />
+  <img src="https://i.imgur.com/voXmPYU.png" />
 </p>
 
 This increase in interest can be attributed to several things, including adoption of **PyTorch** by Silicon Valley front-runners like Tesla. 
@@ -36,7 +36,7 @@ In PyTorch things are way more imperative and dynamic: you can define, change an
 However, those approaches differ not only in a software engineering perspective: there are several dynamic neural network architectures that can benefit from the dynamic approach. Recall RNNs: with static graphs, the input sequence length will stay constant. This means that if you develop a sentiment analysis model for English sentences you must fix the sentence length to some maximum value and pad all smaller sequences with zeros. Not too convenient, huh. And you will get more problems in the domain of recursive RNNs and tree-RNNs. Currently Tensorflow has limited support for dynamic inputs via Tensorflow Fold. PyTorch has it by-default.
 
 <p align="center">
-    <img src="Images/graphmap.gif" />
+    <img src="https://i.imgur.com/HmCYDdG.gif" />
 </p>
 
 This `gif` is an example of how any neural network model can be displayed as a **directed acyclic graph**.
