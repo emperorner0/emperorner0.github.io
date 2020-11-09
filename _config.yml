@@ -2,17 +2,16 @@
 author: Samuel Middleton
 title: A SQL Query Walks into a Bar
 header-img: img/home-bg.png
-email: samuelmiddleton93@gmail.com
+email: doomedc4@gmail.com
 copyright_name: Samuel Middleton
 description: > # this means to ignore newlines until "baseurl:"
   Adventures in Learning Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: TalkDatumToMe
+twitter_username: 
 github_username:  emperorner0
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
 highlighter: rouge
 permalink: pretty
 paginate: 5
